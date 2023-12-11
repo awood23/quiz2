@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(74, 65, 42);
+}
+
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: cursive;
+  background-color: rgba(133, 126, 26, 0.781);
+}
